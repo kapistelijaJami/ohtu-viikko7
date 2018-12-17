@@ -1,0 +1,1 @@
+[Linkki committiin jossa mergesin pull requestin](https://github.com/Mirex97/Team-Kuha-Ohtu/commit/fb22e39c5ad63308b8b2b33adb3d673799a014b8)
